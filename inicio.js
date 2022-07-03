@@ -1,4 +1,4 @@
 console.log('Hello World!')
 
-let numeroDaSorte = 42
-d
+let numeroDaSorte = 4
+a
